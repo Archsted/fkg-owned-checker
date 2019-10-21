@@ -1,0 +1,9 @@
+{{#items}}
+.character-icon-{{name}} {
+    background-image: url({{{escaped_image}}});
+background-position: calc({{x}}/({{total_width}} - {{width}}) * 100%) calc({{y}}/({{total_height}} - {{height}}) * 100%);
+background-size: calc({{total_width}}/{{width}}*100%) calc({{total_height}}/{{height}}*100%);
+width: {{px.width}};
+height: {{px.height}};
+}
+{{/items}}
