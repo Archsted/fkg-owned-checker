@@ -1,2673 +1,2694 @@
 .character-icon-10 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-101 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-102 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-103 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-104 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(200/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-105 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(200/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-106 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-109 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-11 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(200/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-110 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(300/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-111 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(300/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-113 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(300/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-114 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-115 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-117 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(200/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-118 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(300/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-119 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(400/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-12 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(400/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-121 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(400/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-122 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(400/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-123 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-125 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-126 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(200/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-127 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(300/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-129 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(400/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-13 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(500/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-130 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(500/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-131 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(500/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-134 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(500/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-135 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(500/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-136 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-138 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-139 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(200/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-140 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(300/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-142 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(400/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-143 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(500/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-144 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(600/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-146 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(600/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-147 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(600/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-148 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(600/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-150 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(600/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-151 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(600/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-152 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-153 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-155 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(200/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-156 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(300/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-157 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(400/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-159 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(500/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-160 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(600/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-161 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(700/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-163 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(700/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-164 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(700/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-165 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(700/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-167 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(700/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-168 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(700/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-169 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(700/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-174 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-175 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-176 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(200/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-178 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(300/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-179 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(400/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-180 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(500/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-184 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(600/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-185 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(700/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-186 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(800/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-188 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(800/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-189 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(800/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-190 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(800/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-193 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(800/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-194 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(800/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-195 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(800/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-198 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(800/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-199 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-20 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-200 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(200/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-202 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(300/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-203 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(400/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-204 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(500/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-207 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(600/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-208 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(700/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-209 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(800/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-21 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(900/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-211 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(900/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-212 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(900/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-213 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(900/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-216 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(900/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-217 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(900/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-218 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(900/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-220 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(900/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-221 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(900/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-222 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-225 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-226 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(200/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-227 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(300/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-230 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(400/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-231 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(500/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-232 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(600/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-234 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(700/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-236 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(800/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-237 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(900/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-238 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1000/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-240 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1000/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-241 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1000/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-242 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1000/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-244 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1000/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-245 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1000/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-246 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1000/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-249 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1000/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-250 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1000/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-251 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1000/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-254 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-255 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-256 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(200/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-258 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(300/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-259 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(400/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-260 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(500/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-262 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(600/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-263 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(700/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-264 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(800/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-266 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(900/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-267 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1000/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-268 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1100/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-269 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1100/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-271 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1100/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-272 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1100/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-273 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1100/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-276 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1100/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-277 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1100/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-278 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1100/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-281 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1100/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-282 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1100/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-283 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1100/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-285 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-286 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-287 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(200/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-289 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(300/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-29 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(400/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-290 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(500/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-291 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(600/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-295 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(700/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-296 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(800/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-297 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(900/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-300 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1000/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-301 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1100/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-302 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1200/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-305 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1200/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-306 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1200/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-307 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1200/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-310 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1200/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-311 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1200/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-312 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1200/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-314 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1200/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-315 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1200/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-316 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1200/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-318 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1200/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-319 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1200/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-320 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-323 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-324 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(200/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-325 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(300/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-327 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(400/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-328 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(500/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-329 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(600/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-33 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(700/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-331 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(800/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-332 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(900/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-333 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1000/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-336 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1100/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-337 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1200/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-338 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1300/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-34 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1300/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-340 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1300/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-341 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1300/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-342 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1300/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-344 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1300/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-345 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1300/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-346 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1300/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-349 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1300/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-35 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1300/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-350 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1300/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-351 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1300/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-353 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1300/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-354 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-355 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-357 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(200/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-358 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(300/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-359 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(400/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-360 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(500/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-362 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(600/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-363 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(700/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-364 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(800/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-366 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(900/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-367 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1000/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-368 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1100/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-37 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1200/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-374 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1300/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-375 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1400/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-376 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1400/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-378 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1400/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-379 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1400/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-38 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1400/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-380 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1400/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-382 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1400/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-384 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1400/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-385 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1400/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-386 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1400/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-388 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1400/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-389 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1400/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-39 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1400/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-390 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1400/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-393 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-394 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-395 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(200/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-398 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(300/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-399 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(400/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-400 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(500/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-402 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(600/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-403 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(700/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-404 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(800/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-407 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(900/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-408 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1000/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-409 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1100/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-411 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1200/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-412 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1300/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-413 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1400/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-415 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1500/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-416 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1500/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-417 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1500/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-419 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1500/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-420 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1500/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-421 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1500/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-423 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1500/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-424 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1500/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-425 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1500/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-427 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1500/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-428 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1500/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-429 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1500/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-431 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1500/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-432 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1500/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-433 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1500/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-435 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-436 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-437 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(200/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-439 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(300/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-440 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(400/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-441 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(500/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-444 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(600/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-445 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(700/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-446 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(800/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-448 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(900/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-449 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1000/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-450 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1100/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-453 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1200/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-454 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1300/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-455 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1400/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-457 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1500/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-458 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1600/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-459 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1600/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-46 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1600/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-461 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1600/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-462 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1600/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-463 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1600/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-464 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1600/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-467 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1600/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-468 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1600/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-469 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1600/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-471 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1600/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-472 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1600/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-473 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1600/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-475 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1600/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-476 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1600/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-477 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1600/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-479 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-480 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-481 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(200/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-483 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(300/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-484 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(400/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-485 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(500/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-487 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(600/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-488 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(700/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-489 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(800/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-491 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(900/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-492 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1000/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-493 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1100/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-497 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1200/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-498 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1300/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-499 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1400/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-5 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1500/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-502 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1600/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-503 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1700/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-504 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1700/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-506 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1700/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-507 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1700/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-508 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1700/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-511 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1700/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-512 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1700/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-513 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1700/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-516 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1700/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-517 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1700/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-518 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1700/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-520 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1700/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-521 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1700/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-522 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1700/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-524 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1700/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-525 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1700/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-526 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1700/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-528 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-529 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-530 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(200/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-532 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(300/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-533 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(400/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-534 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(500/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-536 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(600/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-537 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(700/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-538 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(800/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-540 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(900/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-541 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1000/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-542 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1100/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-544 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1200/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-545 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1300/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-546 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1400/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-548 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1500/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-549 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1600/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-550 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1700/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-553 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1800/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-554 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1800/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-555 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1800/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-557 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1800/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-558 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1800/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-559 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1800/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-561 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1800/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-562 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1800/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-563 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1800/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-565 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1800/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-566 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1800/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-567 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1800/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-569 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1800/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-570 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1800/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-571 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1800/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-573 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1800/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-574 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1800/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-575 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1800/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-577 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-578 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-579 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(200/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-58 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(300/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-582 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(400/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-583 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(500/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-584 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(600/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-586 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(700/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-587 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(800/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-588 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(900/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-590 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1000/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-591 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1100/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-592 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1200/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-594 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1300/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-595 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1400/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
 .character-icon-596 {
-    background-image: url(/images/character-icon.png);
+    background-image: url(./character-icon.png);
 background-position: calc(1500/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-6 {
-    background-image: url(/images/character-icon.png);
+.character-icon-598 {
+    background-image: url(./character-icon.png);
 background-position: calc(1600/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-67 {
-    background-image: url(/images/character-icon.png);
+.character-icon-599 {
+    background-image: url(./character-icon.png);
 background-position: calc(1700/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-68 {
-    background-image: url(/images/character-icon.png);
+.character-icon-6 {
+    background-image: url(./character-icon.png);
 background-position: calc(1800/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-76 {
-    background-image: url(/images/character-icon.png);
+.character-icon-600 {
+    background-image: url(./character-icon.png);
 background-position: calc(1900/(2000 - 100) * 100%) calc(0/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-77 {
-    background-image: url(/images/character-icon.png);
+.character-icon-67 {
+    background-image: url(./character-icon.png);
 background-position: calc(1900/(2000 - 100) * 100%) calc(100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-78 {
-    background-image: url(/images/character-icon.png);
+.character-icon-68 {
+    background-image: url(./character-icon.png);
 background-position: calc(1900/(2000 - 100) * 100%) calc(200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-79 {
-    background-image: url(/images/character-icon.png);
+.character-icon-76 {
+    background-image: url(./character-icon.png);
 background-position: calc(1900/(2000 - 100) * 100%) calc(300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-80 {
-    background-image: url(/images/character-icon.png);
+.character-icon-77 {
+    background-image: url(./character-icon.png);
 background-position: calc(1900/(2000 - 100) * 100%) calc(400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-81 {
-    background-image: url(/images/character-icon.png);
+.character-icon-78 {
+    background-image: url(./character-icon.png);
 background-position: calc(1900/(2000 - 100) * 100%) calc(500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-82 {
-    background-image: url(/images/character-icon.png);
+.character-icon-79 {
+    background-image: url(./character-icon.png);
 background-position: calc(1900/(2000 - 100) * 100%) calc(600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-83 {
-    background-image: url(/images/character-icon.png);
+.character-icon-80 {
+    background-image: url(./character-icon.png);
 background-position: calc(1900/(2000 - 100) * 100%) calc(700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-84 {
-    background-image: url(/images/character-icon.png);
+.character-icon-81 {
+    background-image: url(./character-icon.png);
 background-position: calc(1900/(2000 - 100) * 100%) calc(800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-85 {
-    background-image: url(/images/character-icon.png);
+.character-icon-82 {
+    background-image: url(./character-icon.png);
 background-position: calc(1900/(2000 - 100) * 100%) calc(900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-86 {
-    background-image: url(/images/character-icon.png);
+.character-icon-83 {
+    background-image: url(./character-icon.png);
 background-position: calc(1900/(2000 - 100) * 100%) calc(1000/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-87 {
-    background-image: url(/images/character-icon.png);
+.character-icon-84 {
+    background-image: url(./character-icon.png);
 background-position: calc(1900/(2000 - 100) * 100%) calc(1100/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-88 {
-    background-image: url(/images/character-icon.png);
+.character-icon-85 {
+    background-image: url(./character-icon.png);
 background-position: calc(1900/(2000 - 100) * 100%) calc(1200/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-89 {
-    background-image: url(/images/character-icon.png);
+.character-icon-86 {
+    background-image: url(./character-icon.png);
 background-position: calc(1900/(2000 - 100) * 100%) calc(1300/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-91 {
-    background-image: url(/images/character-icon.png);
+.character-icon-87 {
+    background-image: url(./character-icon.png);
 background-position: calc(1900/(2000 - 100) * 100%) calc(1400/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-92 {
-    background-image: url(/images/character-icon.png);
+.character-icon-88 {
+    background-image: url(./character-icon.png);
 background-position: calc(1900/(2000 - 100) * 100%) calc(1500/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-94 {
-    background-image: url(/images/character-icon.png);
+.character-icon-89 {
+    background-image: url(./character-icon.png);
 background-position: calc(1900/(2000 - 100) * 100%) calc(1600/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-96 {
-    background-image: url(/images/character-icon.png);
+.character-icon-91 {
+    background-image: url(./character-icon.png);
 background-position: calc(1900/(2000 - 100) * 100%) calc(1700/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-97 {
-    background-image: url(/images/character-icon.png);
+.character-icon-92 {
+    background-image: url(./character-icon.png);
 background-position: calc(1900/(2000 - 100) * 100%) calc(1800/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-98 {
-    background-image: url(/images/character-icon.png);
+.character-icon-94 {
+    background-image: url(./character-icon.png);
 background-position: calc(0/(2000 - 100) * 100%) calc(1900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;
 }
-.character-icon-99 {
-    background-image: url(/images/character-icon.png);
+.character-icon-96 {
+    background-image: url(./character-icon.png);
 background-position: calc(100/(2000 - 100) * 100%) calc(1900/(2000 - 100) * 100%);
+background-size: calc(2000/100*100%) calc(2000/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-97 {
+    background-image: url(./character-icon.png);
+background-position: calc(200/(2000 - 100) * 100%) calc(1900/(2000 - 100) * 100%);
+background-size: calc(2000/100*100%) calc(2000/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-98 {
+    background-image: url(./character-icon.png);
+background-position: calc(300/(2000 - 100) * 100%) calc(1900/(2000 - 100) * 100%);
+background-size: calc(2000/100*100%) calc(2000/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-99 {
+    background-image: url(./character-icon.png);
+background-position: calc(400/(2000 - 100) * 100%) calc(1900/(2000 - 100) * 100%);
 background-size: calc(2000/100*100%) calc(2000/100*100%);
 width: 100px;
 height: 100px;

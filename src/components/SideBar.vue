@@ -4,7 +4,7 @@
 
         <v-list dense subheader>
             <v-list-tile>
-                <v-list-tile-content>
+                <v-list-tile-content class="custom-tile-content">
                     <v-checkbox
                         v-model="isCheckShowRarity6Gacha"
                         :label="`★★★★★★（ガチャ）`"
@@ -14,7 +14,7 @@
                 </v-list-tile-content>
             </v-list-tile>
             <v-list-tile>
-                <v-list-tile-content>
+                <v-list-tile-content class="custom-tile-content">
                     <v-checkbox
                         v-model="isCheckShowRarity5Gacha"
                         :label="`★★★★★（ガチャ）`"
@@ -31,7 +31,7 @@
 
         <v-list dense subheader>
             <v-list-tile>
-                <v-list-tile-content>
+                <v-list-tile-content class="custom-tile-content">
                     <v-radio-group v-model="showOwnedValue">
                         <v-radio
                             :label="`全て表示する`"
@@ -48,7 +48,7 @@
             <v-flex d-flex xs12 sm6>
                 <v-list dense subheader>
                     <v-list-tile>
-                        <v-list-tile-content>
+                        <v-list-tile-content class="custom-tile-content">
                             <v-radio-group v-model="showOwnedValue">
                                 <v-radio
                                     :label="`所持`"
@@ -64,7 +64,7 @@
             <v-flex d-flex xs12 sm6>
                 <v-list dense subheader>
                     <v-list-tile>
-                        <v-list-tile-content>
+                        <v-list-tile-content class="custom-tile-content">
                             <v-radio-group v-model="showOwnedValue">
                                 <v-radio
                                     :label="`未所持`"
@@ -85,7 +85,7 @@
 
         <v-list dense subheader>
             <v-list-tile>
-                <v-list-tile-content>
+                <v-list-tile-content class="custom-tile-content">
                     <v-radio-group v-model="showTypeValue">
                         <v-radio
                             :label="`全て表示する`"
@@ -102,7 +102,7 @@
             <v-flex d-flex xs12 sm6>
                 <v-list dense subheader>
                     <v-list-tile>
-                        <v-list-tile-content>
+                        <v-list-tile-content class="custom-tile-content">
                             <v-radio-group v-model="showTypeValue">
                                 <v-radio
                                     :value="1"
@@ -110,14 +110,14 @@
                                     :ripple="false"
                                 >
                                     <template v-slot:label>
-                                        <img src="/images/type_slash.png" alt="斬属性" class="ml-2">
+                                        <img src="@/assets/images/type_slash.png" alt="斬属性" class="ml-2">
                                     </template>
                                 </v-radio>
                             </v-radio-group>
                         </v-list-tile-content>
                     </v-list-tile>
                     <v-list-tile>
-                        <v-list-tile-content>
+                        <v-list-tile-content class="custom-tile-content">
                             <v-radio-group v-model="showTypeValue">
                                 <v-radio
                                     :value="3"
@@ -125,7 +125,7 @@
                                     :ripple="false"
                                 >
                                     <template v-slot:label>
-                                        <img src="/images/type_pierce.png" alt="突属性" class="ml-2">
+                                        <img src="@/assets/images/type_pierce.png" alt="突属性" class="ml-2">
                                     </template>
                                 </v-radio>
                             </v-radio-group>
@@ -136,7 +136,7 @@
             <v-flex d-flex xs12 sm6>
                 <v-list dense subheader>
                     <v-list-tile>
-                        <v-list-tile-content>
+                        <v-list-tile-content class="custom-tile-content">
                             <v-radio-group v-model="showTypeValue">
                                 <v-radio
                                     :value="2"
@@ -144,14 +144,14 @@
                                     :ripple="false"
                                 >
                                     <template v-slot:label>
-                                        <img src="/images/type_blunt.png" alt="打属性" class="ml-2">
+                                        <img src="@/assets/images/type_blunt.png" alt="打属性" class="ml-2">
                                     </template>
                                 </v-radio>
                             </v-radio-group>
                         </v-list-tile-content>
                     </v-list-tile>
                     <v-list-tile>
-                        <v-list-tile-content>
+                        <v-list-tile-content class="custom-tile-content">
                             <v-radio-group v-model="showTypeValue">
                                 <v-radio
                                     :value="4"
@@ -159,7 +159,7 @@
                                     :ripple="false"
                                 >
                                     <template v-slot:label>
-                                        <img src="/images/type_Magic.png" alt="魔属性" class="ml-2">
+                                        <img src="@/assets/images/type_magic.png" alt="魔属性" class="ml-2">
                                     </template>
                                 </v-radio>
                             </v-radio-group>
@@ -233,6 +233,25 @@
             <v-divider />
         </div>
 
+        <v-layout justify-space-between>
+            <v-flex d-flex xs12 sm5>
+                <v-subheader>連絡先</v-subheader>
+            </v-flex>
+            <v-flex d-flex xs12 sm7>
+                <v-list-tile-action>
+                    <div style="text-align:right;">
+                        会長 (<a href="https://twitter.com/etude_kaicho" target="_blank">@etude_kaicho</a>)
+                    </div>
+                </v-list-tile-action>
+            </v-flex>
+        </v-layout>
+        <v-layout justify-space-between>
+            <v-flex d-flex xs12>
+                <v-list-tile-action>
+                    <img src="@/assets/images/friendpt.png" alt="戦友PT" width="260" style="padding-left:10px;">
+                </v-list-tile-action>
+            </v-flex>
+        </v-layout>
 
     </div>
 </template>
@@ -412,5 +431,10 @@
 </script>
 
 <style scoped>
+
+_::-webkit-full-page-media, _:future, :root .custom-tile-content {
+    border: solid 2px red;
+    margin-top: 0 !important;
+}
 
 </style>

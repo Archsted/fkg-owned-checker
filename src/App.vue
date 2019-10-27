@@ -18,7 +18,7 @@
             tabs
         >
             <v-toolbar-title class="ml-0 pl-3 pr-3 mr-4">
-                花騎士 キャラ所持チェッカー
+                <a href="./" class="no-link">花騎士 キャラ所持チェッカー</a>
             </v-toolbar-title>
 
             <v-text-field
@@ -28,46 +28,33 @@
                 clearable
                 prepend-inner-icon="search"
                 v-model="inputKeyword"
-                label="キャラ名で絞り込み、スペース区切りでAND検索"
+                :label="`キャラ名で絞り込み、スペース区切りでAND検索 （例：水着）`"
             ></v-text-field>
 
+            <div class="pl-4 pr-3 mt-5">
+                <div id="summary">
+                    <img src="@/assets/images/flowerpot_6.png" width="70" alt="★6">
 
+                    <div style="right:79px;" class="summary-number">
+                        <strong>{{ownedRate.rarity6}}</strong><span>%</span>
+                    </div>
+                    <div style="right:83px;" class="summary-count">
+                        ({{ownedCount.rarity6}}/{{allRarity6GachaCharacters.length}})
+                    </div>
 
-            <v-btn fab small light depressed >
-                <v-icon color="#00acee">fab fa-twitter</v-icon>
+                    <img src="@/assets/images/flowerpot_5.png" width="70" alt="★5" style="margin-left: 20px;">
+                    <div style="right:-11px;" class="summary-number">
+                        <strong>{{ownedRate.rarity5}}</strong><span>%</span>
+                    </div>
+                    <div style="right:-7px;" class="summary-count">
+                        ({{ownedCount.rarity5}}/{{allRarity5GachaCharacters.length}})
+                    </div>
+                </div>
+            </div>
+
+            <v-btn fab light depressed @click.native="openTwitter" class="mt-5">
+                <v-icon color="#00acee" medium style="height:28px !important;">fab fa-twitter</v-icon>
             </v-btn>
-
-            <!--
-            <v-toolbar-items>
-                <v-tooltip
-                    bottom
-                    open-delay="0"
-                    close-delay="0"
-                    tag="div"
-                >
-                    <template v-slot:activator="{ on }">
-                            <v-icon v-on="on" class="ml-4 pt-3 mt-1 mr-2">far fa-question-circle</v-icon>
-                    </template>
-                    所持キャラの選択状態を複数管理できます。<br>
-                    FileAとFileBを管理したい時などにご利用下さい。<br>
-                    保存データはブラウザ毎に保存されます。<br>
-                    保存名の変更やデータコピーは右側の歯車をクリックして下さい。
-                </v-tooltip>
-
-                <v-select
-                    dense
-                    class="mt-1"
-                    single-line
-                    hide-details
-                    v-model="selectedSaveId"
-                    item-value="id"
-                    item-text="name"
-                    :items="saveItems"
-                ></v-select>
-
-                <save-manager-dialog />
-            </v-toolbar-items>
-            -->
 
             <template v-slot:extension>
                 <v-toolbar-side-icon
@@ -82,7 +69,7 @@
                         color="blue darken-2"
                     ></v-tabs-slider>
 
-                    <v-tab to="/">
+                    <v-tab :to="{path:`/`}">
                         <v-avatar
                             size="24"
                             class="mr-2"
@@ -91,7 +78,7 @@
                         </v-avatar>
                         レアリティ順
                     </v-tab>
-                    <v-tab to="/name">
+                    <v-tab :to="{path:`/name`}">
                         <v-avatar
                             size="24"
                             class="mr-2"
@@ -106,7 +93,7 @@
         <v-content>
             <div class="mr-4" style="padding-bottom: 120px;">
                 <transition name="fade">
-                    <router-view></router-view>
+                    <router-view @historyInit="replaceHistoryState"></router-view>
                 </transition>
             </div>
 
@@ -132,7 +119,6 @@
 
     import BackToTop from 'vue-backtotop'
     import SideBar from './components/SideBar'
-//    import SaveManagerDialog from "./components/SaveManagerDialog";
 
     export default {
         data: () => ({
@@ -142,7 +128,6 @@
         components: {
             BackToTop,
             SideBar,
-//            SaveManagerDialog,
         },
         created() {
             this.initYearRange()
@@ -159,46 +144,65 @@
                     this.SET_KEYWORD(newValue)
                 },
             },
-            selectedSaveId: {
-                get() {
-                    return this.saveId
-                },
-                set(newValue) {
-                    console.log(newValue)
-                    this.SET_SAVE_ID(newValue)
-                },
+            ownedCount() {
+                return {
+                    all: this.selectedIds.length,
+                    rarity6: this.selectedRarity6GachaCharacter.length,
+                    rarity5: this.selectedRarity5GachaCharacter.length,
+                }
             },
-            saveItems() {
-                // 各内容にidカラムを追加
-                let items = []
-
-                this.saves.forEach((save, index) => {
-                    let name = save.name
-
-                    if (index === 0) {
-                        // URLパラメータを持っていない場合は次のループへ
-                        if (!this.hasUrlParam) {
-                            return
-                        } else {
-                            name = this.urlParamSaveName
-                        }
+            ownedRate() {
+                if (this.isReady) {
+                    return {
+                        all: Math.floor(this.ownedCount.all / this.allCharacters('id').length * 100),
+                        rarity6: Math.floor((this.ownedCount.rarity6 / this.allRarity6GachaCharacters.length) * 100),
+                        rarity5: Math.floor((this.ownedCount.rarity5 / this.allRarity5GachaCharacters.length) * 100),
                     }
+                } else {
+                    return {
+                        all: ' - ',
+                        rarity6: ' - ',
+                        rarity5: ' - ',
+                    }
+                }
+            },
+            selectedRarity6GachaCharacter() {
+                const characters = this.allRarity6GachaCharacters
 
-                    items.push({
-                        id: index,
-                        name: name,
-                    })
+                return characters.filter(character => {
+                    return this.selectedIds.includes(character.id)
                 })
+            },
+            selectedRarity5GachaCharacter() {
+                const characters = this.allRarity5GachaCharacters
 
-                return items
+                return characters.filter(character => {
+                    return this.selectedIds.includes(character.id)
+                })
+            },
+            twitterLink() {
+                return `https://twitter.com/share?url=${location.href}`
+                    + `&hashtags=花騎士,フラワーナイトガール`
+                    + `&text=${this.twitterText}%0a`
+            },
+            twitterText() {
+                const sum = (this.allRarity6GachaCharacters.length) + (this.allRarity5GachaCharacters.length)
+
+                return encodeURI(`現在の花騎士ガチャ限キャラ所有率は${this.ownedRate.all}% (${this.ownedCount.all}/${sum})です。`) + `%0a` +
+                    encodeURI(`★6: ${this.ownedRate.rarity6}% (${this.ownedCount.rarity6}/${this.allRarity6GachaCharacters.length})  ` +
+                        `★5: ${this.ownedRate.rarity5}% (${this.ownedCount.rarity5}/${this.allRarity5GachaCharacters.length})`)
             },
             ...mapGetters('Character', [
                 'allCharacters',
+                'targetCharacters',
+                'allRarity6GachaCharacters',
+                'allRarity5GachaCharacters',
             ]),
             ...mapGetters('Setting', [
                 'sortItem',
             ]),
             ...mapGetters('User', [
+                'selectedIds',
                 'selectedIdsQuery'
             ]),
             ...mapState('Setting', [
@@ -206,37 +210,20 @@
                 'isGroupedByYear',
                 'isShowLimited',
             ]),
-            ...mapState('User', [
-                'saves',
-                'saveId',
-                'hasUrlParam',
-            ])
         },
         methods: {
             loadLocalStorage() {
                 this.SET_SORT_ITEM(this.$localStorage.get('sortItem'))
                 this.SET_IS_SHOW_LIMITED(this.$localStorage.get('isShowLimited'))
-                this.SET_SAVES(this.$localStorage.get('saves'))
                 this.drawer = this.$localStorage.get('drawer')
             },
             restoreSelectedIds() {
                 const url = new URL(location.href)
 
-                const paramPosition = url.hash.indexOf('?')
+                const param = url.query.replace('?', '')
 
-                // URLのハッシュに?が含まれている場合
-                if (paramPosition !== -1) {
-                    this.SET_HAS_URL_PARAM(true)
-                    this.SET_SAVE_ID(0)
-
-                    // ?より後ろを選択状態のパラメータと判断
-                    this.SET_SELECTED(util.inflateList(url.hash.substring(paramPosition + 1)))
-
-                    // URLのパラメータを削除する
-                    location.hash = url.hash.substring(1, paramPosition)
-                } else {
-                    this.SET_HAS_URL_PARAM(false)
-                    this.SET_SAVE_ID(1) // 初期選択セーブ番号はひとまず固定、今後設定に残すことにするかも
+                if (param) {
+                    this.SET_SELECTED(util.inflateList(param))
                 }
             },
             readCharacterData() {
@@ -249,14 +236,6 @@
                         // エラー
                     })
             },
-            selectCharactersFromSave() {
-                const ids = this.saves[this.selectedSaveId].value
-                if (ids) {
-                    this.SET_SELECTED(util.inflateList(this.saves[this.selectedSaveId].value))
-                } else {
-                    this.SET_SELECTED([])
-                }
-            },
             initYearRange() {
                 const startYear = 2015 // 花騎士のサービス開始年
                 const years = []
@@ -267,12 +246,24 @@
 
                 this.SET_YEAR_RANGE(years)
             },
+            /**
+             * ブラウザのURLを書き換える
+             */
+            replaceHistoryState() {
+                const url = new URL(location.href)
+
+                if (this.selectedIdsQuery) {
+                    history.replaceState(null, null, `${url.pathname}?${this.selectedIdsQuery}`)
+                } else {
+                    history.replaceState(null, null, url.pathname)
+                }
+            },
+            openTwitter() {
+                window.open(this.twitterLink, '_blank')
+            },
+
             ...mapMutations('User', [
                 'SET_SELECTED',
-                'SET_SAVES',
-                'SET_SAVE_ID',
-                'UPDATE_SAVE',
-                'SET_HAS_URL_PARAM',
             ]),
             ...mapMutations('Character', [
                 'SET_CHARACTERS',
@@ -296,20 +287,11 @@
             isShowLimited(newValue) {
                 this.$localStorage.set('isShowLimited', newValue)
             },
-            selectedIdsQuery(newValue) {
-                this.UPDATE_SAVE({
-                    index: this.selectedSaveId,
-                    save: {
-                        value: newValue
-                    }
-                })
-                this.$localStorage.set('saves', this.saves)
+            selectedIdsQuery() {
+                this.replaceHistoryState()
             },
             drawer(newValue) {
                 this.$localStorage.set('drawer', newValue)
-            },
-            selectedSaveId() {
-                this.selectCharactersFromSave()
             },
         }
     }
@@ -328,5 +310,72 @@
     }
     .fade-enter, .fade-leave-to  {
         opacity: 0;
+    }
+
+    .no-link {
+        color: inherit;
+        text-decoration: none;
+    }
+
+    #summary {
+        width: 170px;
+        position: relative;
+        margin-top: -10px;
+        text-align: right;
+    }
+
+    .summary-number {
+        position:absolute;
+        top:26px;
+        /*left:0;*/
+        text-align: center;
+        width:80px;
+        /*background-color:rgba(255,0,0,0.4);*/
+
+
+        text-shadow:
+            white 2px 0px 0px, white -2px 0px 0px,
+            white 0px -2px 0px, white 0px 2px 0px,
+            white 2px 2px 0px, white -2px 2px 0px,
+            white 2px -2px 0px, white -2px -2px 0px,
+            white 1px 2px 0px, white -1px 2px 0px,
+            white 1px -2px 0px, white -1px -2px 0px,
+            white 2px 1px 0px, white -2px 1px 0px,
+            white 2px -1px 0px, white -2px -1px 0px,
+            white 1px 1px 0px, white -1px 1px 0px,
+            white 1px -1px 0px, white -1px -1px 0px;
+
+        color: red;
+    }
+
+    .summary-number strong {
+        font-size: 220%;
+    }
+
+    .summary-number span {
+        font-size:120%;
+    }
+
+    .summary-count {
+        position: absolute;
+        bottom: -13px;
+        text-align: center;
+        width: 80px;
+
+        font-size: 90%;
+
+        text-shadow:
+            black 2px 0px 0px, black -2px 0px 0px,
+            black 0px -2px 0px, black 0px 2px 0px,
+            black 2px 2px 0px, black -2px 2px 0px,
+            black 2px -2px 0px, black -2px -2px 0px,
+            black 1px 2px 0px, black -1px 2px 0px,
+            black 1px -2px 0px, black -1px -2px 0px,
+            black 2px 1px 0px, black -2px 1px 0px,
+            black 2px -1px 0px, black -2px -1px 0px,
+            black 1px 1px 0px, black -1px 1px 0px,
+            black 1px -1px 0px, black -1px -1px 0px;
+
+        color: white;
     }
 </style>

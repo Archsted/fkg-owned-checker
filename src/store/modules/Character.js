@@ -43,6 +43,18 @@ const getters = {
         }
     },
 
+    allRarity6GachaCharacters: (state, getters) => {
+        return getters.allCharacters('id').filter(character => {
+            return character.rarity === 6
+        })
+    },
+
+    allRarity5GachaCharacters: (state, getters) => {
+        return getters.allCharacters('id').filter(character => {
+            return character.rarity === 5
+        })
+    },
+
     targetCharacters: (state, getters, rootState) => condition => {
         const sortKey = condition.hasOwnProperty('sort') ? condition.sort : 'id'
 

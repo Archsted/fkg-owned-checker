@@ -2,8 +2,6 @@ import util from '@/assets/util'
 
 const state = {
     selected: [],
-    saves: [],
-    saveId: 0,
 }
 
 const mutations = {
@@ -17,18 +15,6 @@ const mutations = {
         state.selected = state.selected.filter(value => {
             return value !== id
         })
-    },
-    SET_SAVES: (state, saves) => {
-        state.saves = saves
-    },
-    // payloadはindexとsaveを持つ。saveはオブジェクトで更新したいキーと値のみを持つ
-    UPDATE_SAVE: (state, payload) => {
-        for (let key of Object.keys(payload.save)) {
-            state.saves[payload.index][key] = payload.save[key]
-        }
-    },
-    SET_SAVE_ID: (state, id) => {
-        state.saveId = id
     },
 }
 

@@ -10,6 +10,7 @@ import VTooltip from 'v-tooltip'
 Vue.use(VTooltip)
 import '@/assets/tooltip.css';
 import '@/assets/character-icon.css';
+import '@/assets/custom.css';
 
 import VueLocalStorage from 'vue-localstorage'
 Vue.use(VueLocalStorage)
@@ -21,31 +22,6 @@ Vue.mixin(GlobalVariables)
 
 new Vue({
     localStorage: {
-        saves: {
-            type: Array,
-            default: [
-                {
-                    name: '',
-                    value: null,
-                },
-                {
-                    name: 'セーブ 1',
-                    value: null,
-                },
-                {
-                    name: 'セーブ 2',
-                    value: null,
-                },
-                {
-                    name: 'セーブ 3',
-                    value: null,
-                },
-                {
-                    name: 'セーブ 4',
-                    value: null,
-                },
-            ],
-        },
         drawer: {
             type: Boolean,
             default: true,

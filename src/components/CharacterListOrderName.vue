@@ -27,6 +27,9 @@
         data: () => ({
 
         }),
+        created() {
+            this.$emit('historyInit')
+        },
         computed: {
             ...mapState('Setting', [
                 'isShowRarity6Gacha',
