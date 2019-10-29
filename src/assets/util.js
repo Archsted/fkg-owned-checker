@@ -111,7 +111,7 @@ const inflateList = (paramString) => {
 
 const getCharacterData = () => {
     return new Promise( (resolve, reject) => {
-        axios.get('characters.csv')
+        axios.get('characters.csv?update=20191028')
             .then( response => {
                 const charactersData = response.data.split('\n')
 
