@@ -43,15 +43,23 @@ const getters = {
         }
     },
 
-    allRarity6GachaCharacters: (state, getters) => {
+    allRarity6GachaCharacters: (state, getters, rootState) => {
         return getters.allCharacters('id').filter(character => {
-            return character.rarity === 6
+            if (!rootState.Setting.isShowLimited) {
+                return ((character.rarity === 6) && (character.isLimited === 0))
+            } else {
+                return (character.rarity === 6)
+            }
         })
     },
 
-    allRarity5GachaCharacters: (state, getters) => {
+    allRarity5GachaCharacters: (state, getters, rootState) => {
         return getters.allCharacters('id').filter(character => {
-            return character.rarity === 5
+            if (!rootState.Setting.isShowLimited) {
+                return ((character.rarity === 5) && (character.isLimited === 0))
+            } else {
+                return (character.rarity === 5)
+            }
         })
     },
 

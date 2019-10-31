@@ -146,7 +146,7 @@
             },
             ownedCount() {
                 return {
-                    all: this.selectedIds.length,
+                    all: this.selectedRarity6GachaCharacter.length + this.selectedRarity5GachaCharacter.length,
                     rarity6: this.selectedRarity6GachaCharacter.length,
                     rarity5: this.selectedRarity5GachaCharacter.length,
                 }
@@ -154,7 +154,7 @@
             ownedRate() {
                 if (this.isReady) {
                     return {
-                        all: Math.floor(this.ownedCount.all / this.allCharacters('id').length * 100),
+                        all: Math.floor(this.ownedCount.all / (this.allRarity6GachaCharacters.length + this.allRarity5GachaCharacters.length) * 100),
                         rarity6: Math.floor((this.ownedCount.rarity6 / this.allRarity6GachaCharacters.length) * 100),
                         rarity5: Math.floor((this.ownedCount.rarity5 / this.allRarity5GachaCharacters.length) * 100),
                     }
@@ -170,14 +170,14 @@
                 const characters = this.allRarity6GachaCharacters
 
                 return characters.filter(character => {
-                    return this.selectedIds.includes(character.id)
+                    return (this.selectedIds.includes(character.id))
                 })
             },
             selectedRarity5GachaCharacter() {
                 const characters = this.allRarity5GachaCharacters
 
                 return characters.filter(character => {
-                    return this.selectedIds.includes(character.id)
+                return (this.selectedIds.includes(character.id))
                 })
             },
             twitterLink() {
