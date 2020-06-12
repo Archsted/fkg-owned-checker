@@ -83,7 +83,7 @@ const getters = {
 
             // 頭文字
             if (condition.initial) {
-                if (new RegExp('^' + condition.initial).test(character.name) === false) {
+                if (condition.initial !== character.initial) {
                     return false
                 }
             }
@@ -158,7 +158,7 @@ const actions = {
         commit('SET_CHARACTERS_ORDER_BY_ID', charactersOrderById)
         commit('SET_CHARACTERS_ORDER_BY_NAME', charactersOrderByName)
 
-        const allInitials = charactersOrderByName.map( character => character.name.substring(0, 1))
+        const allInitials = charactersOrderByName.map( character => character.initial)
         const uniqueInitials = allInitials.filter( (x, i, self) => {
             return self.indexOf(x) === i
         })
