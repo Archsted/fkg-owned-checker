@@ -1,0 +1,1064 @@
+.character-icon-101 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(0/(1300 - 100) * 100%) calc(0/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-104 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(100/(1300 - 100) * 100%) calc(0/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-109 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(0/(1300 - 100) * 100%) calc(100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-113 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(100/(1300 - 100) * 100%) calc(100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-118 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(200/(1300 - 100) * 100%) calc(0/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-12 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(200/(1300 - 100) * 100%) calc(100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-123 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(0/(1300 - 100) * 100%) calc(200/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-127 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(100/(1300 - 100) * 100%) calc(200/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-13 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(200/(1300 - 100) * 100%) calc(200/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-131 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(300/(1300 - 100) * 100%) calc(0/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-136 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(300/(1300 - 100) * 100%) calc(100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-140 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(300/(1300 - 100) * 100%) calc(200/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-144 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(0/(1300 - 100) * 100%) calc(300/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-148 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(100/(1300 - 100) * 100%) calc(300/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-153 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(200/(1300 - 100) * 100%) calc(300/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-157 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(300/(1300 - 100) * 100%) calc(300/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-159 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(400/(1300 - 100) * 100%) calc(0/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-165 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(400/(1300 - 100) * 100%) calc(100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-169 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(400/(1300 - 100) * 100%) calc(200/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-176 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(400/(1300 - 100) * 100%) calc(300/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-180 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(0/(1300 - 100) * 100%) calc(400/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-186 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(100/(1300 - 100) * 100%) calc(400/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-190 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(200/(1300 - 100) * 100%) calc(400/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-195 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(300/(1300 - 100) * 100%) calc(400/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-20 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(400/(1300 - 100) * 100%) calc(400/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-200 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(500/(1300 - 100) * 100%) calc(0/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-204 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(500/(1300 - 100) * 100%) calc(100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-209 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(500/(1300 - 100) * 100%) calc(200/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-213 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(500/(1300 - 100) * 100%) calc(300/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-218 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(500/(1300 - 100) * 100%) calc(400/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-222 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(0/(1300 - 100) * 100%) calc(500/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-227 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(100/(1300 - 100) * 100%) calc(500/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-232 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(200/(1300 - 100) * 100%) calc(500/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-234 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(300/(1300 - 100) * 100%) calc(500/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-238 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(400/(1300 - 100) * 100%) calc(500/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-242 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(500/(1300 - 100) * 100%) calc(500/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-246 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(600/(1300 - 100) * 100%) calc(0/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-251 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(600/(1300 - 100) * 100%) calc(100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-256 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(600/(1300 - 100) * 100%) calc(200/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-260 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(600/(1300 - 100) * 100%) calc(300/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-264 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(600/(1300 - 100) * 100%) calc(400/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-269 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(600/(1300 - 100) * 100%) calc(500/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-273 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(0/(1300 - 100) * 100%) calc(600/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-278 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(100/(1300 - 100) * 100%) calc(600/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-283 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(200/(1300 - 100) * 100%) calc(600/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-287 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(300/(1300 - 100) * 100%) calc(600/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-291 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(400/(1300 - 100) * 100%) calc(600/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-297 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(500/(1300 - 100) * 100%) calc(600/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-302 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(600/(1300 - 100) * 100%) calc(600/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-307 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(700/(1300 - 100) * 100%) calc(0/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-312 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(700/(1300 - 100) * 100%) calc(100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-316 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(700/(1300 - 100) * 100%) calc(200/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-320 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(700/(1300 - 100) * 100%) calc(300/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-325 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(700/(1300 - 100) * 100%) calc(400/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-329 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(700/(1300 - 100) * 100%) calc(500/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-33 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(700/(1300 - 100) * 100%) calc(600/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-333 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(0/(1300 - 100) * 100%) calc(700/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-338 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(100/(1300 - 100) * 100%) calc(700/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-342 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(200/(1300 - 100) * 100%) calc(700/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-346 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(300/(1300 - 100) * 100%) calc(700/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-351 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(400/(1300 - 100) * 100%) calc(700/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-355 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(500/(1300 - 100) * 100%) calc(700/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-360 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(600/(1300 - 100) * 100%) calc(700/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-364 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(700/(1300 - 100) * 100%) calc(700/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-368 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(800/(1300 - 100) * 100%) calc(0/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-37 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(800/(1300 - 100) * 100%) calc(100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-376 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(800/(1300 - 100) * 100%) calc(200/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-380 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(800/(1300 - 100) * 100%) calc(300/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-382 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(800/(1300 - 100) * 100%) calc(400/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-386 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(800/(1300 - 100) * 100%) calc(500/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-39 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(800/(1300 - 100) * 100%) calc(600/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-390 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(800/(1300 - 100) * 100%) calc(700/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-395 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(0/(1300 - 100) * 100%) calc(800/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-400 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(100/(1300 - 100) * 100%) calc(800/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-404 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(200/(1300 - 100) * 100%) calc(800/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-409 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(300/(1300 - 100) * 100%) calc(800/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-413 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(400/(1300 - 100) * 100%) calc(800/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-417 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(500/(1300 - 100) * 100%) calc(800/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-421 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(600/(1300 - 100) * 100%) calc(800/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-425 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(700/(1300 - 100) * 100%) calc(800/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-429 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(800/(1300 - 100) * 100%) calc(800/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-433 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(900/(1300 - 100) * 100%) calc(0/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-437 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(900/(1300 - 100) * 100%) calc(100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-441 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(900/(1300 - 100) * 100%) calc(200/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-446 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(900/(1300 - 100) * 100%) calc(300/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-450 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(900/(1300 - 100) * 100%) calc(400/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-455 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(900/(1300 - 100) * 100%) calc(500/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-459 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(900/(1300 - 100) * 100%) calc(600/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-464 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(900/(1300 - 100) * 100%) calc(700/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-469 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(900/(1300 - 100) * 100%) calc(800/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-473 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(0/(1300 - 100) * 100%) calc(900/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-477 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(100/(1300 - 100) * 100%) calc(900/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-481 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(200/(1300 - 100) * 100%) calc(900/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-485 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(300/(1300 - 100) * 100%) calc(900/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-489 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(400/(1300 - 100) * 100%) calc(900/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-493 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(500/(1300 - 100) * 100%) calc(900/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-499 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(600/(1300 - 100) * 100%) calc(900/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-504 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(700/(1300 - 100) * 100%) calc(900/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-508 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(800/(1300 - 100) * 100%) calc(900/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-513 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(900/(1300 - 100) * 100%) calc(900/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-518 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1000/(1300 - 100) * 100%) calc(0/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-522 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1000/(1300 - 100) * 100%) calc(100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-526 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1000/(1300 - 100) * 100%) calc(200/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-530 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1000/(1300 - 100) * 100%) calc(300/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-534 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1000/(1300 - 100) * 100%) calc(400/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-538 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1000/(1300 - 100) * 100%) calc(500/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-542 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1000/(1300 - 100) * 100%) calc(600/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-546 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1000/(1300 - 100) * 100%) calc(700/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-550 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1000/(1300 - 100) * 100%) calc(800/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-555 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1000/(1300 - 100) * 100%) calc(900/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-559 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(0/(1300 - 100) * 100%) calc(1000/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-563 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(100/(1300 - 100) * 100%) calc(1000/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-567 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(200/(1300 - 100) * 100%) calc(1000/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-571 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(300/(1300 - 100) * 100%) calc(1000/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-575 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(400/(1300 - 100) * 100%) calc(1000/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-579 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(500/(1300 - 100) * 100%) calc(1000/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-584 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(600/(1300 - 100) * 100%) calc(1000/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-588 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(700/(1300 - 100) * 100%) calc(1000/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-592 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(800/(1300 - 100) * 100%) calc(1000/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-596 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(900/(1300 - 100) * 100%) calc(1000/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-6 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1000/(1300 - 100) * 100%) calc(1000/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-600 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1100/(1300 - 100) * 100%) calc(0/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-604 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1100/(1300 - 100) * 100%) calc(100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-608 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1100/(1300 - 100) * 100%) calc(200/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-612 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1100/(1300 - 100) * 100%) calc(300/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-615 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1100/(1300 - 100) * 100%) calc(400/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-616 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1100/(1300 - 100) * 100%) calc(500/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-619 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1100/(1300 - 100) * 100%) calc(600/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-620 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1100/(1300 - 100) * 100%) calc(700/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-622 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1100/(1300 - 100) * 100%) calc(800/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-628 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1100/(1300 - 100) * 100%) calc(900/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-632 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1100/(1300 - 100) * 100%) calc(1000/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-639 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(0/(1300 - 100) * 100%) calc(1100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-643 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(100/(1300 - 100) * 100%) calc(1100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-647 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(200/(1300 - 100) * 100%) calc(1100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-651 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(300/(1300 - 100) * 100%) calc(1100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-654 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(400/(1300 - 100) * 100%) calc(1100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-657 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(500/(1300 - 100) * 100%) calc(1100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-659 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(600/(1300 - 100) * 100%) calc(1100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-662 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(700/(1300 - 100) * 100%) calc(1100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-665 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(800/(1300 - 100) * 100%) calc(1100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-668 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(900/(1300 - 100) * 100%) calc(1100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-669 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1000/(1300 - 100) * 100%) calc(1100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-67 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1100/(1300 - 100) * 100%) calc(1100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-672 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1200/(1300 - 100) * 100%) calc(0/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-77 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1200/(1300 - 100) * 100%) calc(100/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-79 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1200/(1300 - 100) * 100%) calc(200/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-84 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1200/(1300 - 100) * 100%) calc(300/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-87 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1200/(1300 - 100) * 100%) calc(400/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-91 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1200/(1300 - 100) * 100%) calc(500/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-92 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1200/(1300 - 100) * 100%) calc(600/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-99 {
+    background-image: url(./character-icon-gacha6.png);
+background-position: calc(1200/(1300 - 100) * 100%) calc(700/(1200 - 100) * 100%);
+background-size: calc(1300/100*100%) calc(1200/100*100%);
+width: 100px;
+height: 100px;
+}
