@@ -1,0 +1,42 @@
+.character-icon-634 {
+    background-image: url(./character-icon-rainbow-medal.png);
+background-position: calc(0/(300 - 100) * 100%) calc(0/(200 - 100) * 100%);
+background-size: calc(300/100*100%) calc(200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-635 {
+    background-image: url(./character-icon-rainbow-medal.png);
+background-position: calc(100/(300 - 100) * 100%) calc(0/(200 - 100) * 100%);
+background-size: calc(300/100*100%) calc(200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-636 {
+    background-image: url(./character-icon-rainbow-medal.png);
+background-position: calc(0/(300 - 100) * 100%) calc(100/(200 - 100) * 100%);
+background-size: calc(300/100*100%) calc(200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-652 {
+    background-image: url(./character-icon-rainbow-medal.png);
+background-position: calc(100/(300 - 100) * 100%) calc(100/(200 - 100) * 100%);
+background-size: calc(300/100*100%) calc(200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-658 {
+    background-image: url(./character-icon-rainbow-medal.png);
+background-position: calc(200/(300 - 100) * 100%) calc(0/(200 - 100) * 100%);
+background-size: calc(300/100*100%) calc(200/100*100%);
+width: 100px;
+height: 100px;
+}
+.character-icon-666 {
+    background-image: url(./character-icon-rainbow-medal.png);
+background-position: calc(200/(300 - 100) * 100%) calc(100/(200 - 100) * 100%);
+background-size: calc(300/100*100%) calc(200/100*100%);
+width: 100px;
+height: 100px;
+}

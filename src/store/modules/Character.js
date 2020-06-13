@@ -46,9 +46,9 @@ const getters = {
     allRarity6GachaCharacters: (state, getters, rootState) => {
         return getters.allCharacters('id').filter(character => {
             if (!rootState.Setting.isShowLimited) {
-                return ((character.rarity === 6) && (character.isLimited === 0))
+                return ((character.group === 'gacha6') && (character.isLimited === 0))
             } else {
-                return (character.rarity === 6)
+                return (character.group === 'gacha6')
             }
         })
     },
@@ -56,9 +56,19 @@ const getters = {
     allRarity5GachaCharacters: (state, getters, rootState) => {
         return getters.allCharacters('id').filter(character => {
             if (!rootState.Setting.isShowLimited) {
-                return ((character.rarity === 5) && (character.isLimited === 0))
+                return ((character.group === 'gacha5') && (character.isLimited === 0))
             } else {
-                return (character.rarity === 5)
+                return (character.group === 'gacha5')
+            }
+        })
+    },
+
+    allRainbowMedalCharacters: (state, getters, rootState) => {
+        return getters.allCharacters('id').filter(character => {
+            if (!rootState.Setting.isShowLimited) {
+                return ((character.group === 'rainbow-medal') && (character.isLimited === 0))
+            } else {
+                return (character.group === 'rainbow-medal')
             }
         })
     },
@@ -84,6 +94,13 @@ const getters = {
             // 頭文字
             if (condition.initial) {
                 if (condition.initial !== character.initial) {
+                    return false
+                }
+            }
+
+            // グループ
+            if (condition.group) {
+                if (condition.group !== character.group) {
                     return false
                 }
             }

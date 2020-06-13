@@ -7,7 +7,7 @@
                 <v-list-tile-content class="custom-tile-content">
                     <v-checkbox
                         v-model="isCheckShowRarity6Gacha"
-                        :label="`★★★★★★（ガチャ）`"
+                        :label="`★６（ガチャ）`"
                         color="deep-orange lighten-2"
                         :ripple="false"
                     ></v-checkbox>
@@ -17,7 +17,17 @@
                 <v-list-tile-content class="custom-tile-content">
                     <v-checkbox
                         v-model="isCheckShowRarity5Gacha"
-                        :label="`★★★★★（ガチャ）`"
+                        :label="`★５（ガチャ）`"
+                        color="deep-orange lighten-2"
+                        :ripple="false"
+                    ></v-checkbox>
+                </v-list-tile-content>
+            </v-list-tile>
+            <v-list-tile>
+                <v-list-tile-content class="custom-tile-content">
+                    <v-checkbox
+                        v-model="isCheckShowRainbowMedal"
+                        :label="`虹色メダル`"
                         color="deep-orange lighten-2"
                         :ripple="false"
                     ></v-checkbox>
@@ -288,6 +298,14 @@
                     this.SET_IS_SHOW_RARITY_6_GACHA(newValue)
                 },
             },
+            isCheckShowRainbowMedal: {
+                get() {
+                    return this.isShowRainbowMedal
+                },
+                set(newValue) {
+                    this.SET_IS_SHOW_RAINBOW_MEDAL(newValue)
+                },
+            },
             isCheckShowRarity5Gacha: {
                 get() {
                     return this.isShowRarity5Gacha
@@ -323,6 +341,7 @@
             ...mapState('Setting', [
                 'isShowRarity6Gacha',
                 'isShowRarity5Gacha',
+                'isShowRainbowMedal',
                 'isShowLimited',
                 'isShowOwned',
                 'isShowUnowned',
@@ -381,6 +400,7 @@
             },
             ...mapMutations('Setting', [
                 'SET_IS_SHOW_RARITY_6_GACHA',
+                'SET_IS_SHOW_RAINBOW_MEDAL',
                 'SET_IS_SHOW_RARITY_5_GACHA',
                 'SET_IS_SHOW_LIMITED',
                 'SET_IS_SHOW_OWNED',

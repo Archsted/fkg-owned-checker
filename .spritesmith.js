@@ -21,4 +21,13 @@ module.exports = [
         algorithm: 'binary-tree',
         cssTemplate: 'css-sprite.template',
     },
+    {
+        src: './src/assets/images/character-icon/rainbow-medal/*.png',
+        destImage: './src/assets/character-icon-rainbow-medal.png',
+        destCSS: './src/assets/character-icon-rainbow-medal.css',
+        imgPath: './character-icon-rainbow-medal.png',
+        padding: 0,
+        algorithm: 'binary-tree',
+        cssTemplate: 'css-sprite.template',
+    },
 ];

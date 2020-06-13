@@ -1,8 +1,9 @@
 const state = {
     isShowRarity6Gacha: true, // ガチャ虹
-    isShowRarity6Other: false, // 虹アルストロメリア, クガイソウ, コルチカム等
-
+    isShowRainbowMedal: false, // 虹色メダル
     isShowRarity5Gacha: true, // ガチャ金
+
+    isShowRarity6Other: false, // 虹アルストロメリア, クガイソウ, コルチカム等
     isShowRarity5Event: false, // イベ金
     isShowRarity5Other: false, // シリアルナンバー、交換等
 
@@ -29,6 +30,9 @@ const state = {
 const mutations = {
     SET_IS_SHOW_RARITY_6_GACHA (state, value) {
         state.isShowRarity6Gacha = value
+    },
+    SET_IS_SHOW_RAINBOW_MEDAL (state, value) {
+        state.isShowRainbowMedal = value
     },
     SET_IS_SHOW_RARITY_5_GACHA (state, value) {
         state.isShowRarity5Gacha = value

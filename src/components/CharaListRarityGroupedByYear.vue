@@ -1,15 +1,15 @@
 <template>
     <div class="rarity-wrapper pa-3 mb-1 mx-1">
-        <span class="display-1">★{{rarity}}</span>
-        <div v-for="year in years" :key="`rarity-${rarity}-${year}`">
+        <span class="display-1">{{ groupTitle }}</span>
+        <div v-for="yearlyData in yearlyCharacters" :key="`${group}-${yearlyData.year}`">
             <v-subheader class="px-0">
-                <span class="headline">{{year}}年</span>
+                <span class="headline">{{yearlyData.year}}年</span>
                 <span class="ml-4">表示中のキャラを</span>
                 <v-btn
                     small
                     outline
                     round
-                    @click="checkAll({rarity: rarity, year:year})"
+                    @click="checkAll({group: group, year:yearlyData.year})"
                     color="green darken-3"
                 >
                     <v-icon class="pr-1" color="success">add_circle</v-icon>
@@ -19,7 +19,7 @@
                     small
                     outline
                     round
-                    @click="uncheckAll({rarity: rarity, year:year})"
+                    @click="uncheckAll({group: group, year:yearlyData.year})"
                     color="red darken-3"
                 >
                     <v-icon class="pr-1" color="error">remove_circle</v-icon>
@@ -29,7 +29,7 @@
 
             <div class="character-icon-list pl-4">
                 <character-icon
-                    v-for="character in targetCharacters({rarity: rarity, year: year, sort: sortItem})"
+                    v-for="character in yearlyData.characters"
                     :key="`character-icon-${character.id}`"
                     :chara-data="character"
                     :active="isSelectedCharacterId(character.id)"
@@ -44,24 +44,40 @@
     import {mapState, mapGetters, mapMutations} from 'vuex'
 
     import CharacterIcon from './CharacterIcon'
+    import Consts from '../assets/Consts'
 
     export default {
         data: () => ({
 
         }),
         props: {
-            rarity: {
-                type: Number,
+            group: {
+                type: String,
                 required: true,
-                validator: value => {
-                    return value >= 1 && value <= 6
-                },
-            },
+            }
         },
         components: {
             CharacterIcon
         },
         computed: {
+            yearlyCharacters() {
+                const list = []
+
+                this.years.forEach(year => {
+                    const characters = this.targetCharacters({group: this.group, year: year, sort: this.sortItem})
+                    if (characters.length) {
+                        list.push({
+                            year: year,
+                            characters: characters,
+                        })
+                    }
+                })
+
+                return list
+            },
+            groupTitle() {
+                return Consts.ListTitle[this.group]
+            },
             ...mapState('Setting', [
                 'isShowOwned',
                 'isShowUnowned',

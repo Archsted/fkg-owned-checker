@@ -1,13 +1,13 @@
 <template>
     <div class="rarity-wrapper pa-3 mb-1 mx-1">
         <v-subheader class="px-0">
-            <span class="display-1">★{{rarity}}</span>
+            <span class="display-1">{{ groupTitle }}</span>
             <span class="ml-4">表示中のキャラを</span>
             <v-btn
                 small
                 outline
                 round
-                @click="checkAll({rarity: rarity})"
+                @click="checkAll({group: group})"
                 color="green darken-3"
             >
                 <v-icon class="pr-1" color="success">add_circle</v-icon>
@@ -17,7 +17,7 @@
                 small
                 outline
                 round
-                @click="uncheckAll({rarity: rarity})"
+                @click="uncheckAll({group: group})"
                 color="red darken-3"
             >
                 <v-icon class="pr-1" color="error">remove_circle</v-icon>
@@ -27,7 +27,7 @@
 
         <div class="character-icon-list pl-4">
             <character-icon
-                v-for="character in targetCharacters({rarity: rarity, sort: sortItem})"
+                v-for="character in targetCharacters({group: group, sort: sortItem})"
                 :key="`character-icon-${character.id}`"
                 :chara-data="character"
                 :active="isSelectedCharacterId(character.id)"
@@ -41,24 +41,25 @@
     import {mapState, mapGetters, mapMutations} from 'vuex'
 
     import CharacterIcon from './CharacterIcon'
+    import Consts from '../assets/Consts'
 
     export default {
         data: () => ({
 
         }),
         props: {
-            rarity: {
-                type: Number,
+            group: {
+                type: String,
                 required: true,
-                validator: value => {
-                    return value >= 1 && value <= 6
-                },
             },
         },
         components: {
             CharacterIcon
         },
         computed: {
+            groupTitle() {
+                return Consts.ListTitle[this.group]
+            },
             ...mapState('Setting', [
                 'isShowOwned',
                 'isShowUnowned',
