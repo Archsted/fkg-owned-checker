@@ -11,6 +11,7 @@ Vue.use(VTooltip)
 import '@/assets/tooltip.css'
 import '@/assets/character-icon-gacha6.css'
 import '@/assets/character-icon-gacha5.css'
+import '@/assets/character-icon-rainbow-medal.css'
 import '@/assets/custom.css'
 
 import VueLocalStorage from 'vue-localstorage'

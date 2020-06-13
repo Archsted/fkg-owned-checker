@@ -1,9 +1,11 @@
 <template>
     <div>
-        <chara-list-rarity :rarity="6" v-show="isShowRarity6Gacha && !isGroupedByYear" />
-        <chara-list-rarity :rarity="5" v-show="isShowRarity5Gacha && !isGroupedByYear" />
-        <chara-list-rarity-grouped-by-year :rarity="6" v-show="isShowRarity6Gacha && isGroupedByYear" />
-        <chara-list-rarity-grouped-by-year :rarity="5" v-show="isShowRarity5Gacha && isGroupedByYear" />
+        <chara-list-rarity group="gacha6" v-show="isShowRarity6Gacha && !isGroupedByYear" />
+        <chara-list-rarity group="gacha5" v-show="isShowRarity5Gacha && !isGroupedByYear" />
+        <chara-list-rarity group="rainbow-medal" v-show="isShowRainbowMedal && !isGroupedByYear" />
+        <chara-list-rarity-grouped-by-year group="gacha6" v-show="isShowRarity6Gacha && isGroupedByYear" />
+        <chara-list-rarity-grouped-by-year group="gacha5" v-show="isShowRarity5Gacha && isGroupedByYear" />
+        <chara-list-rarity-grouped-by-year group="rainbow-medal" v-show="isShowRainbowMedal && isGroupedByYear" />
     </div>
 </template>
 
@@ -23,6 +25,7 @@
         computed: {
             ...mapState('Setting', [
                 'isShowRarity6Gacha',
+                'isShowRainbowMedal',
                 'isShowRarity5Gacha',
                 'isGroupedByYear',
             ]),

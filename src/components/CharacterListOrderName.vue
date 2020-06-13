@@ -34,6 +34,7 @@
             ...mapState('Setting', [
                 'isShowRarity6Gacha',
                 'isShowRarity5Gacha',
+                'isShowRainbowMedal',
                 'isShowOwned',
                 'isShowUnowned',
             ]),
@@ -55,10 +56,15 @@
                 return this.selectedIds.includes(id)
             },
             isShowCharacterIcon(character) {
-                if (character.rarity === 6 && !this.isShowRarity6Gacha) {
+                if (!this.isShowRarity6Gacha && character.group === 'gacha6') {
                     return false
                 }
-                if (character.rarity === 5 && !this.isShowRarity5Gacha) {
+
+                if (!this.isShowRarity5Gacha && character.group === 'gacha5') {
+                    return false
+                }
+
+                if (!this.isShowRainbowMedal && character.group === 'rainbow-medal') {
                     return false
                 }
 
