@@ -224,11 +224,11 @@
                 let text = encodeURI(`現在の花騎士キャラ所有率は`) + `%0a`
 
                 if (this.isShowRarity6Gacha) {
-                    text = text + encodeURI(`★6: ${this.ownedRate.rarity6}% (${this.ownedCount.rarity6}/${this.allRarity6GachaCharacters.length})`) + `%0a`
+                    text = text + encodeURI(`★6(ガチャ限): ${this.ownedRate.rarity6}% (${this.ownedCount.rarity6}/${this.allRarity6GachaCharacters.length})`) + `%0a`
                 }
 
                 if (this.isShowRarity5Gacha) {
-                    text = text + encodeURI(`★5: ${this.ownedRate.rarity5}% (${this.ownedCount.rarity5}/${this.allRarity5GachaCharacters.length})`) + `%0a`
+                    text = text + encodeURI(`★5(ガチャ限): ${this.ownedRate.rarity5}% (${this.ownedCount.rarity5}/${this.allRarity5GachaCharacters.length})`) + `%0a`
                 }
 
                 if (this.isShowRainbowMedal) {
